@@ -1,0 +1,52 @@
+HD assets for: obj/PLAYER.mdlx
+
+HD assets for: obj/PO06_PLAYER.mdlx
+
+HD assets for: obj/PO07_PLAYER.mdlx
+
+HD assets for: obj/PO08_PLAYER.mdlx
+
+HD assets for: obj/P_EX100.mdlx
+
+HD assets for: obj/P_EX100_AL_CARPET.mdlx
+
+HD assets for: obj/P_EX100_BTLF.mdlx
+
+HD assets for: obj/P_EX100_HTLF.mdlx
+
+HD assets for: obj/P_EX100_HTLF_BTL.mdlx
+
+HD assets for: obj/P_EX100_KH1F.mdlx
+
+HD assets for: obj/P_EX100_LAST.mdlx
+
+HD assets for: obj/P_EX100_MAGF.mdlx
+
+HD assets for: obj/P_EX100_MEMO.mdlx
+
+HD assets for: obj/P_EX100_NPC.mdlx
+
+HD assets for: obj/P_EX100_SIDECAR.mdlx
+
+HD assets for: obj/P_EX100_TRIF.mdlx
+
+HD assets for: obj/P_EX100_ULTF.mdlx
+
+HD assets for: obj/P_EX100_WM.mdlx
+
+HD assets for: obj/P_EX120.mdlx
+
+HD assets for: obj/P_EX120_NPC_BLUE.mdlx
+
+HD assets for: obj/P_EX120_NPC_GREEN.mdlx
+
+HD assets for: obj/P_EX120_NPC_RED.mdlx
+
+HD assets for: obj/TR_PLAYER.mdlx
+
+HD assets for: obj/WM_EX100.mdlx
+
+HD assets for: obj/W_EH000.mdlx
+
+HD assets for: obj/W_EX200.mdlx
+
