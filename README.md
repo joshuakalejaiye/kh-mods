@@ -1,6 +1,6 @@
 # Installed Mods
 
-All mods (excluding HD Texture Mods) should be hosted locally.
+All mods (excluding HD Texture Mods) in the repo
 
 LuaBackend needs to be installed and the game folders need to be placed in Documents/theKH1.5Path/scripts
 
