@@ -8,6 +8,8 @@ You also need to crack the games and run them individually through their exes fo
 
 ## KH1
 
+[ReFined](https://github.com/TopazTK/KH-ReFined)
+
 KHPCPatchManager
 
 - [Critical Mix Mod](https://www.nexusmods.com/kingdomheartsfinalmix/mods/93?tab=description)
